@@ -6,6 +6,7 @@ import Burguer from "../../assets/register.svg";
 
 import H1 from '../../components/Title'
 import Button from "../../components/Button";
+
 import {
   Container,
   Image,
